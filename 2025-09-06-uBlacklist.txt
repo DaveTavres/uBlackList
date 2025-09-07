@@ -1,0 +1,13 @@
+*://en.savefrom.net/*
+*://en.wikipedia.org/*
+*://www.berkshireeagle.com/*
+*://www.etsy.com/*
+*://lms.ium.edu.mv/*
+*://www.snopes.com/*
+*://www.tiktok.com/*
+*://www.instagram.com/*
+*://www.thespec.com/*
+*://*.wikimedia.org/*
+*://us.nextdoor.com/*
+*://www.zoominfo.com/*
+*://www.datanyze.com/*
