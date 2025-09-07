@@ -1,8 +1,3 @@
----
-Name: Dave Tavres' uBlackList
-Homepage: https://github.com/DaveTavres/uBlackList
-Subscription URL: https://raw.githubusercontent.com/DaveTavres/uBlackList/refs/heads/master/Tavres-uBlacklist.txt
----
 *://en.savefrom.net/*
 *://en.wikipedia.org/*
 *://www.berkshireeagle.com/*
